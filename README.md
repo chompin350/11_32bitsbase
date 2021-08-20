@@ -1,4 +1,4 @@
-# 11_32bitsbase
+# Desafío - Tienda de juegos 32 bits (Parte I)
 
 ## Project setup
 ```
@@ -19,6 +19,4 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+LUIS AVILES SANTOS
